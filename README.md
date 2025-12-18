@@ -53,6 +53,15 @@ Long-press the central clock widget to open the **Settings** menu.
 * **Aliases:** Set custom names for your apps.
 * **Theme:** Edit the color palette for the clock, cards, and text.
 
+# 🔒 Privacy Policy
+This app respects your privacy.
+
+No Data Collection: We do not collect, store, or transmit any personal data, app usage, or search history to external servers.
+
+Offline Processing: All logic, including "Private Space" filtering, is processed locally on your device.
+
+Weather Data: Location data is sent anonymously to Open-Meteo solely for retrieving weather forecasts and is not used for any other purpose.
+
 ---
 
 # Simple and Clear Launcher (日本語)
@@ -106,3 +115,14 @@ Long-press the central clock widget to open the **Settings** menu.
 * **Weather / Calendar:** 権限の管理や表示設定を行います。
 * **Aliases:** アプリの検索用別名を設定・管理します。
 * **Theme:** 時計やカードのグラデーションなど、配色の詳細設定が可能です。
+
+
+
+# 🔒 プライバシーポリシー
+本アプリはユーザーのプライバシーを尊重します。
+
+データ収集なし: 個人情報、アプリの使用状況、検索履歴などを外部サーバーに送信・保存することはありません。
+
+オフライン処理: 「プライベートスペース」のフィルタリングを含むすべてのロジックは、端末内でのみ処理されます。
+
+天気データ: 天気予報の取得のためにのみ、位置情報がOpen-Meteoに匿名で送信されますが、それ以外の目的で使用されることはありません。
